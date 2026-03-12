@@ -10,7 +10,7 @@ sessionInfo()
 
 
 ```{r}
-#| eval:false
+#| eval: FALSE
 update.packages()
 ```
 
